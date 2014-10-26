@@ -4,6 +4,14 @@ Support
 
 ![Example](https://github.com/t9md/t9md/blob/master/img/vim-ruby-xmpfilter_anime.gif?raw=true)
 
+Installation
+
+(after following the instructions for either of the tools listed above in "Support" ...)
+
+cd ~/.vim/bundle
+
+git clone https://github.com/t9md/vim-ruby-xmpfilter.git
+
 
 ### [help](https://github.com/t9md/vim-ruby-xmpfilter/blob/master/doc/xmpfilter.txt)
 
