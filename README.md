@@ -4,14 +4,19 @@ Support
 
 ![Example](https://github.com/t9md/t9md/blob/master/img/vim-ruby-xmpfilter_anime.gif?raw=true)
 
-Installation
+###Installation
 
 (after following the instructions for either of the tools listed above in "Support" ...)
 
-cd ~/.vim/bundle
+cd ~/.vim
 
 git clone https://github.com/t9md/vim-ruby-xmpfilter.git
 
+now we will copy and past the contents of each folder plugin, docs and autoload into each corresponding folder in ~/.vim
+
+type open .
+
+after you have copied the files add the sample below to your .vimrc file...
 
 ### [help](https://github.com/t9md/vim-ruby-xmpfilter/blob/master/doc/xmpfilter.txt)
 
@@ -19,6 +24,8 @@ git clone https://github.com/t9md/vim-ruby-xmpfilter.git
 ==================================
 vim-ruby-xmpfilter doesn't provide any default keymap.
 See sample configuration below.
+
+note: command+m <D-m> and command+r <D-r> ONLY work in [macvim](https://code.google.com/p/macvim/)
 
 'xmpfilter' user
 
